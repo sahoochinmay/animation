@@ -1,4 +1,4 @@
-# animation
+# animations
 A simple loading animation using html and css only.
 
 ### Connect with me:
